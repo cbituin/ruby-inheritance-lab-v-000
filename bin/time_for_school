@@ -28,4 +28,6 @@ stefan.first_name = "Stefan"
 stefan.last_name = "Nafets"
 
 stefan.learn(some_knowledge)
+puts "Stefan just learned this important knowledge: '#{stefan.knowledge.first}' from Avi"
 steve.learn(some_knowledge)
+puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
