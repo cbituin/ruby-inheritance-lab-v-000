@@ -28,3 +28,5 @@ stefan.first_name = "Stefan"
 stefan.last_name = "Nafets"
 
 stefan.learn(some_knowledge)
+steve.learn(some_knowledge)
+jim.learn(some_knowledge)
